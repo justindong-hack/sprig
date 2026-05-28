@@ -1,3 +1,17 @@
+/*
+@title: Edog-hack-quest
+@description: This game allows players to survive in a creepy place when everything is abandoned and so many mazes that you need to cross in order to save your princess to the wedding! You'll need to find the key and fight mobs with your special swords. 
+@author: JD-hack
+@tags: ['survival','simulation']
+@addedOn: 2026-05-28
+
+Instructions: 
+Use "WASD" to move the character.
+Use "J" to attack with kick
+Use "K" to attack with punch
+Use "L" to cast a spell saying edog attack
+*/
+
 const edog = "e";
 const sword = "s";
 const swordGlow = "g";
